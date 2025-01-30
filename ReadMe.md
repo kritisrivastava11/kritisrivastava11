@@ -11,10 +11,13 @@
 ## Professional Summary:
 **Insight**<br>
 **Cloud Engineer I- Managed Services (April 2023 - Present)** <br>
+<br>
 **Hanu Software**<br>
 **Cloud Engineer - Managed Services (Nov 2022 - April 2023)** <br>
+<br>
 **Hanu Software**<br>
 **Cloud Engineer Trainee (Sep 2022 - Nov 2022)** <br>
+<br>
 **Trapis Technologies**<br>
 **Internship - Data Science (June 2022 - Aug 2022)**
 
@@ -36,4 +39,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kritisrivastava11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
